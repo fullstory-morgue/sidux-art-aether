@@ -1,0 +1,4 @@
+dm-gdm/*.png		usr/share/gdm/themes/sidux-aethir
+dm-gdm/screenshot.jpg	usr/share/gdm/themes/sidux-aethir
+dm-gdm/*.desktop	usr/share/gdm/themes/sidux-aethir
+dm-gdm/aethir.xml	usr/share/gdm/themes/sidux-aethir

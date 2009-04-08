@@ -1,0 +1,78 @@
+Source: sidux-art-aethir
+Section: graphics
+Priority: extra
+Maintainer: Bernard Gray <bernard.gray@gmail.com>                                                                                 
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>                                                                                 
+Build-Depends: debhelper (>= 7),                                                                                                  
+               inkscape,                                                                                                          
+Standards-Version: 3.8.0                                                                                                          
+Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-aethir/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-aethir/trunk/
+
+Package: sidux-art-gdm-aethir
+Architecture: all
+Depends: ${misc:Depends},
+         gdm
+Description: GDM theme for sidux 2009-02 release
+ the default GDM theme for the 2009-02 (Aethir)
+ sidux release.
+
+Package: sidux-art-kdm-aethir
+Architecture: all
+Depends: ${misc:Depends},
+         kdm
+Description: KDM theme for sidux 2009-02 release
+ the default KDM theme for the 2009-02 (Aethir)
+ sidux release.
+
+Package: sidux-art-ksplash-aethir
+Architecture: all
+Depends: ${misc:Depends},
+         ksplash
+Description: KDE ksplash theme for sidux 2009-02 release
+ the default KDE ksplash theme for the 2009-02
+ (Aethir) sidux release, using the default ksplash engine
+
+Package: sidux-art-xsplash-aethir
+Architecture: all
+Depends: ${misc:Depends},
+         xfce4-session
+Description: Xfce splash theme for sidux 2009-02 release
+ the default Xfce splash theme for the 2009-02
+ (Aethir) sidux release, based on balou theme engine.
+
+Package: sidux-art-wallpaper-aethir
+Architecture: all
+Provides: sidux-art-wallpaper-theme
+Depends: ${misc:Depends}
+Description: sidux wallpaper for 2009-02 release
+ The official wallpaper for the 2009-02 (Aethir)
+ sidux release.
+
+Package: sidux-art-kde-aethir
+Architecture: all
+Provides: sidux-art-kde-theme
+Depends: ${misc:Depends},
+         sidux-art-ksplash-aethir,
+         sidux-art-kdm-aethir,
+         kde-style-qtcurve,
+         gtk2-engines-qtcurve
+Recommends: sidux-art-wallpaper-aethir, dmz-cursor-theme
+Description: KDE theme for sidux 2009-02 release
+ Virtual package providing ksplash, kdm and KDE themes
+ for sidux 2009-02 (Aethir) release
+
+Package: sidux-art-xfce-aethir
+Architecture: all
+Provides: sidux-art-xfce-theme
+Depends: ${misc:Depends},
+         sidux-art-xsplash-aethir,
+         sidux-art-gdm-aethir
+Recommends: sidux-art-wallpaper-aethir, dmz-cursor-theme
+Description: Xfce theme for sidux 2009-02 release
+ Virtual package providing Xfce-splash and gdm themes
+ for sidux 2009-02 (Aethir) release
+ <insert long description, indented with spaces>
+
+
+
