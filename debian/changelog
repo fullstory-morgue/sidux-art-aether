@@ -1,5 +1,9 @@
-sidux-art-aethir (0.0) unstable; urgency=low
+sidux-art-aether (0.0) unstable; urgency=low
 
+  [ Bernard Gray ]
   * Initial Release.
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 08 Apr 2009 13:10:36 +1000
+  [ Stefan Lippers-Hollmann ]
+  * fix release name.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 08 Apr 2009 23:43:16 +0200
