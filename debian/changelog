@@ -1,9 +1,12 @@
-sidux-art-aether (0.0) unstable; urgency=low
+sidux-art-aether (0.0) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
 
   [ Bernard Gray ]
   * Initial Release.
 
   [ Stefan Lippers-Hollmann ]
   * fix release name.
+  * remove hopefully unneeded postinst.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 08 Apr 2009 23:43:16 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 08 Apr 2009 23:46:17 +0200
