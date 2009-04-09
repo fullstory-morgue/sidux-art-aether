@@ -7,9 +7,10 @@ sidux-art-aether (0.0) UNRELEASED; urgency=low
   * add dummy wallpaper
   * add wallpaper metadata.desktop to suit kde4
   * modify wallpaper Makefile, debian/install to suit kde4
+  * remove comment junk from wallpaper/Makefile
 
   [ Stefan Lippers-Hollmann ]
   * fix release name.
   * remove hopefully unneeded postinst.
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 09 Apr 2009 12:10:38 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 09 Apr 2009 12:15:37 +1000

@@ -36,9 +36,5 @@ all: $(SIZES)
 		--export-height=$(lastword $(subst x, ,$@ )) \
 		--export-png="contents/images/$@.png" $(SVG)
 
-#	SPLITSIZE= "$(subst x, ,$@ )"
-#	WIDTH= "$(firstword $(SPLITSIZE))"
-#	HEIGHT= "$(lastword $(SPLITSIZE))"
-#BITMAPS= $(NAME)-1600x1200.png $(NAME)-1920x1200.png
 clean:
 	$(RM) -r contents/
