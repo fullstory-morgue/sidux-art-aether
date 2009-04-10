@@ -1,11 +1,11 @@
 Source: sidux-art-aether
 Section: graphics
 Priority: extra
-Maintainer: Bernard Gray <bernard.gray@gmail.com>                                                                                 
-Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>                                                                                 
-Build-Depends: debhelper (>= 7),                                                                                                  
-               inkscape,                                                                                                          
-Standards-Version: 3.8.0                                                                                                          
+Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: debhelper (>= 7),
+               inkscape,
+Standards-Version: 3.8.0
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-aether/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-aether/trunk/
 
@@ -28,7 +28,8 @@ Description: KDM theme for sidux 2009-02 release
 Package: sidux-art-ksplash-aether
 Architecture: all
 Depends: ${misc:Depends},
-         ksplash
+         kdebase-workspace-bin
+         
 Description: KDE ksplash theme for sidux 2009-02 release
  the default KDE ksplash theme for the 2009-02
  (Aethir) sidux release, using the default ksplash engine
@@ -72,7 +73,7 @@ Recommends: sidux-art-wallpaper-aether, dmz-cursor-theme
 Description: Xfce theme for sidux 2009-02 release
  Virtual package providing Xfce-splash and gdm themes
  for sidux 2009-02 (Aethir) release
- <insert long description, indented with spaces>
+
 
 
 
