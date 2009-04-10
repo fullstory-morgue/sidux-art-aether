@@ -1,0 +1,10 @@
+# This is not really a .desktop file like the rest, but it is useful to treat
+# it as such
+
+[KdmGreeterTheme]
+Greeter=aether.xml
+Name=sidux 2009-02 Aether
+Description=sidux 2009-02 Aether Theme
+Author=Bernard Gray 
+Copyright=on Debian systems see /usr/share/doc/sidux-art-kdm-aether/copyright
+Screenshot=screenshot.png
