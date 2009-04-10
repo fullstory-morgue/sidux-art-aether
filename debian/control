@@ -5,7 +5,7 @@ Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7),
                inkscape,
-Standards-Version: 3.8.0
+Standards-Version: 3.8.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-aether/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-aether/trunk/
 

@@ -16,10 +16,11 @@ sidux-art-aether (0.0) UNRELEASED; urgency=low
   * update standards version to make lintian happy
   * remove *qtcurve* dependencies which is kde3 specific only
   * remove *.kcsrc and associated kde theme files
+  * update standards version to make lintian happy (really do it, this time)
 
 
   [ Stefan Lippers-Hollmann ]
   * fix release name.
   * remove hopefully unneeded postinst.
 
- -- Bernard Gray <bernard.gray@gmail.com>  Fri, 10 Apr 2009 22:03:57 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Fri, 10 Apr 2009 22:05:21 +1000
