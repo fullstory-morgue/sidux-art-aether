@@ -29,7 +29,6 @@ Package: sidux-art-ksplash-aether
 Architecture: all
 Depends: ${misc:Depends},
          kdebase-workspace-bin
-         
 Description: KDE ksplash theme for sidux 2009-02 release
  the default KDE ksplash theme for the 2009-02
  (Aethir) sidux release, using the default ksplash engine
@@ -56,8 +55,6 @@ Provides: sidux-art-kde-theme
 Depends: ${misc:Depends},
          sidux-art-ksplash-aether,
          sidux-art-kdm-aether,
-         kde-style-qtcurve,
-         gtk2-engines-qtcurve
 Recommends: sidux-art-wallpaper-aether, dmz-cursor-theme
 Description: KDE theme for sidux 2009-02 release
  Virtual package providing ksplash, kdm and KDE themes
