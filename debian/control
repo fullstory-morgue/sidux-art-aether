@@ -14,7 +14,7 @@ Architecture: all
 Depends: ${misc:Depends},
          gdm
 Description: GDM theme for sidux 2009-02 release
- the default GDM theme for the 2009-02 (Aethir)
+ the default GDM theme for the 2009-02 (Aether)
  sidux release.
 
 Package: sidux-art-kdm-aether
@@ -22,7 +22,7 @@ Architecture: all
 Depends: ${misc:Depends},
          kdm
 Description: KDM theme for sidux 2009-02 release
- the default KDM theme for the 2009-02 (Aethir)
+ the default KDM theme for the 2009-02 (Aether)
  sidux release.
 
 Package: sidux-art-ksplash-aether
@@ -31,7 +31,7 @@ Depends: ${misc:Depends},
          kdebase-workspace-bin
 Description: KDE ksplash theme for sidux 2009-02 release
  the default KDE ksplash theme for the 2009-02
- (Aethir) sidux release, using the default ksplash engine
+ (Aether) sidux release, using the default ksplash engine
 
 Package: sidux-art-xsplash-aether
 Architecture: all
@@ -39,14 +39,14 @@ Depends: ${misc:Depends},
          xfce4-session
 Description: Xfce splash theme for sidux 2009-02 release
  the default Xfce splash theme for the 2009-02
- (Aethir) sidux release, based on balou theme engine.
+ (Aether) sidux release, based on balou theme engine.
 
 Package: sidux-art-wallpaper-aether
 Architecture: all
 Provides: sidux-art-wallpaper-theme
 Depends: ${misc:Depends}
 Description: sidux wallpaper for 2009-02 release
- The official wallpaper for the 2009-02 (Aethir)
+ The official wallpaper for the 2009-02 (Aether)
  sidux release.
 
 Package: sidux-art-kde-aether
@@ -58,7 +58,7 @@ Depends: ${misc:Depends},
 Recommends: sidux-art-wallpaper-aether, dmz-cursor-theme
 Description: KDE theme for sidux 2009-02 release
  Virtual package providing ksplash, kdm and KDE themes
- for sidux 2009-02 (Aethir) release
+ for sidux 2009-02 (Aether) release
 
 Package: sidux-art-xfce-aether
 Architecture: all
@@ -69,7 +69,7 @@ Depends: ${misc:Depends},
 Recommends: sidux-art-wallpaper-aether, dmz-cursor-theme
 Description: Xfce theme for sidux 2009-02 release
  Virtual package providing Xfce-splash and gdm themes
- for sidux 2009-02 (Aethir) release
+ for sidux 2009-02 (Aether) release
 
 
 
