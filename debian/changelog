@@ -1,3 +1,9 @@
+sidux-art-aether (0.4) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 24 Apr 2009 16:09:19 +0200
+
 sidux-art-aether (0.3) unstable; urgency=low
 
   * fix path for ksplash Theme.rc install
