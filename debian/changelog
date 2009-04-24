@@ -1,9 +1,5 @@
-sidux-art-aether (0.3) UNRELEASED; urgency=low
+sidux-art-aether (0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * fix path for ksplash Theme.rc install
   * adjust output sizes for ksplash, seems only to work with a specific subset 
 
