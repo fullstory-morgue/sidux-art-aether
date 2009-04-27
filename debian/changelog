@@ -1,8 +1,13 @@
 sidux-art-aether (0.4) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 24 Apr 2009 16:09:19 +0200
+  [ Bernard Gray ]
+  * (finally) resolve non-working ksplash - add missing icons, description, 
+  	and image files
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 27 Apr 2009 16:21:50 +1000
 
 sidux-art-aether (0.3) unstable; urgency=low
 

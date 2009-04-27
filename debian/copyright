@@ -17,6 +17,9 @@ Copyright:
     dm-kdm/oxygen.xml
     dm-kdm/session.png
     dm-kdm/system.png
+    splash-kde/icon*
+    splash-kde/description.txt
+    splash-kde/rectangle.png
     Copyright: The Oxygen Icon Theme 
       |     Copyright (C) 2007 David Vignoni <david@icon-king.com>
       |     Copyright (C) 2007 Johann Ollivier Lapeyre <johann@oxygen-icons.org>
