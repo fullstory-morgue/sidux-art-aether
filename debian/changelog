@@ -1,3 +1,9 @@
+sidux-art-aether (0.5) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 28 Apr 2009 16:02:00 +0200
+
 sidux-art-aether (0.4) unstable; urgency=low
 
   * (finally) resolve non-working ksplash - add missing icons, description, 
