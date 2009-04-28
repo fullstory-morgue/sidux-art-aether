@@ -1,11 +1,7 @@
-sidux-art-aether (0.4) UNRELEASED; urgency=low
+sidux-art-aether (0.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * (finally) resolve non-working ksplash - add missing icons, description, 
-  	and image files
+     and image files.
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 27 Apr 2009 16:21:50 +1000
 
