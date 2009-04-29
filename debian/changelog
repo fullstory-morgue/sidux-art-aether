@@ -1,13 +1,14 @@
-sidux-art-aether (0.5) UNRELEASED; urgency=low
+sidux-art-aether (0.5) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * increase color contrasts of the wallpaper, allowing to use fonts without
+    shadows.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 28 Apr 2009 16:02:00 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 30 Apr 2009 00:58:06 +0200
 
 sidux-art-aether (0.4) unstable; urgency=low
 
   * (finally) resolve non-working ksplash - add missing icons, description, 
-     and image files.
+    and image files.
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 27 Apr 2009 16:21:50 +1000
 

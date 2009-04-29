@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,7 +12,7 @@
    height="1200"
    id="svg3135"
    sodipodi:version="0.32"
-   inkscape:version="0.46+devel"
+   inkscape:version="0.46"
    version="1.0"
    sodipodi:docname="sidux-aether.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -35,15 +34,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-113.57143"
+     inkscape:cx="749.26182"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1920"
+     inkscape:window-width="1590"
      inkscape:window-height="1140"
-     inkscape:window-x="-5"
-     inkscape:window-y="-3">
+     inkscape:window-x="0"
+     inkscape:window-y="0">
     <inkscape:grid
        type="xygrid"
        id="grid3145"
@@ -59,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,7 +67,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:9.70000171999999949;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#1e72a0;stroke:none;stroke-width:9.70000171999999949;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
        id="rect3147"
        width="1920"
        height="1200"
@@ -76,7 +75,7 @@
        y="0" />
     <text
        xml:space="preserve"
-       style="font-size:400.1206665px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:400.12066649999997026px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        x="423.5101"
        y="600"
        id="text3921"><tspan
@@ -86,13 +85,13 @@
          y="600">sidux</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        x="750.81055"
        y="680"
        id="text3925"><tspan
          sodipodi:role="line"
          id="tspan3927"
          x="750.81055"
-         y="680">aether test wallpaper</tspan></text>
+         y="680">Αιθήρ test wallpaper</tspan></text>
   </g>
 </svg>
