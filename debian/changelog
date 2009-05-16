@@ -1,8 +1,13 @@
 sidux-art-aether (0.6) unstable; urgency=low
 
+  [ Bernard Gray ]
   * add kde color scheme, reinstate sidux-art-kde-${RELEASE} to distribute it.
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 17 May 2009 02:20:27 +1000
+  [ Stefan Lippers-Hollmann ]
+  * remove duplicate entry from debian/control, introduced in r23391, and fix
+    dependencies.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 17 May 2009 00:18:32 +0200
 
 sidux-art-aether (0.5) unstable; urgency=low
 

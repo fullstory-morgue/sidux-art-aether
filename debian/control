@@ -20,10 +20,13 @@ Description: GDM theme for sidux 2009-02 release
 Package: sidux-art-kde-aether
 Architecture: all
 Provides: sidux-art-kde-theme
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
+         sidux-art-ksplash-aether,
+         sidux-art-kdm-aether
+Recommends: sidux-art-wallpaper-aether, dmz-cursor-theme
 Description: KDE theme for sidux 2009-02 release
- Virtual package providing KDE color scheme
- for sidux 2009-02 (Aether) release.
+ Virtual package providing ksplash, kdm and KDE themes
+ for sidux 2009-02 (Aether) release
 
 Package: sidux-art-kdm-aether
 Architecture: all
@@ -56,17 +59,6 @@ Depends: ${misc:Depends}
 Description: sidux wallpaper for 2009-02 release
  The official wallpaper for the 2009-02 (Aether)
  sidux release.
-
-Package: sidux-art-kde-aether
-Architecture: all
-Provides: sidux-art-kde-theme
-Depends: ${misc:Depends},
-         sidux-art-ksplash-aether,
-         sidux-art-kdm-aether,
-Recommends: sidux-art-wallpaper-aether, dmz-cursor-theme
-Description: KDE theme for sidux 2009-02 release
- Virtual package providing ksplash, kdm and KDE themes
- for sidux 2009-02 (Aether) release
 
 Package: sidux-art-xfce-aether
 Architecture: all
