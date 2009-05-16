@@ -1,10 +1,6 @@
-sidux-art-aether (0.6) UNRELEASED; urgency=low
+sidux-art-aether (0.6) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
-  * add kde color scheme, reinstate sidux-art-kde-${RELEASE} to distribute it
+  * add kde color scheme, reinstate sidux-art-kde-${RELEASE} to distribute it.
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sun, 17 May 2009 02:20:27 +1000
 
