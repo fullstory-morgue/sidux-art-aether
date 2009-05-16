@@ -17,6 +17,14 @@ Description: GDM theme for sidux 2009-02 release
  the default GDM theme for the 2009-02 (Aether)
  sidux release.
 
+Package: sidux-art-kde-aether
+Architecture: all
+Provides: sidux-art-kde-theme
+Depends: ${misc:Depends}
+Description: KDE theme for sidux 2009-02 release
+ Virtual package providing KDE color scheme
+ for sidux 2009-02 (Aether) release.
+
 Package: sidux-art-kdm-aether
 Architecture: all
 Depends: ${misc:Depends},
