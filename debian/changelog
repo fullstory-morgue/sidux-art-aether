@@ -1,3 +1,9 @@
+sidux-art-aether (0.8) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 17 May 2009 12:35:43 +0200
+
 sidux-art-aether (0.7) unstable; urgency=low
 
   * symlink standard res wallpaper in /usr/share/wallpapers/ to ease non-kde4 
