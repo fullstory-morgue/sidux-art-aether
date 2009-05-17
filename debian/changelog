@@ -1,11 +1,7 @@
-sidux-art-aether (0.7) UNRELEASED; urgency=low
+sidux-art-aether (0.7) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * symlink standard res wallpaper in /usr/share/wallpapers/ to ease non-kde4 
-    desktop preseeding for FLL_WALLPAPER
+    desktop preseeding for FLL_WALLPAPER.
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sun, 17 May 2009 10:56:47 +1000
 
