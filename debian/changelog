@@ -1,8 +1,12 @@
 sidux-art-aether (0.8) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 17 May 2009 12:35:43 +0200
+  [ Bernard Gray ]
+  * add install file for the kde colours file in sidux-art-kde-aether
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 18 May 2009 12:52:08 +1000
 
 sidux-art-aether (0.7) unstable; urgency=low
 
