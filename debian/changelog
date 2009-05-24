@@ -1,10 +1,14 @@
 sidux-art-aether (0.9) unstable; urgency=low
 
+  [ Bernard Gray ]
   * complete aether theme update for pre
   * dm-gdm fix Makefile, set screenshot plain black
   * dm-kdm - set screenshot plain black
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 24 May 2009 14:23:05 +1000
+  [ Stefan Lippers-Hollmann ]
+  * hook up dm-kdm into the buildsystem.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 24 May 2009 14:43:07 +0200
 
 sidux-art-aether (0.8) unstable; urgency=low
 
