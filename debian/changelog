@@ -1,9 +1,5 @@
-sidux-art-aether (0.9) UNRELEASED; urgency=low
+sidux-art-aether (0.9) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * complete aether theme update for pre
   * dm-gdm fix Makefile, set screenshot plain black
   * dm-kdm - set screenshot plain black
