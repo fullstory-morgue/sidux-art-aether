@@ -2,5 +2,5 @@ dm-kdm/*.png		usr/share/kde4/apps/kdm/themes/sidux-aether
 dm-kdm/*.svg		usr/share/kde4/apps/kdm/themes/sidux-aether
 dm-kdm/*.desktop	usr/share/kde4/apps/kdm/themes/sidux-aether
 dm-kdm/aether.xml	usr/share/kde4/apps/kdm/themes/sidux-aether
-dm-kdm/screenshot.png	usr/share/kde4/apps/kdm/themes/sidux-aether
+dm-kdm/screenshot.jpg	usr/share/kde4/apps/kdm/themes/sidux-aether
 
