@@ -1,9 +1,5 @@
-sidux-art-aether (0.10) UNRELEASED; urgency=low
+sidux-art-aether (0.10) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update splash-xfce to use new theme
 
  -- Bernard Gray <bernard.gray@gmail.com>  Fri, 29 May 2009 17:36:05 +1000
