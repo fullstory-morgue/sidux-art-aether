@@ -1,8 +1,12 @@
 sidux-art-aether (0.10) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 24 May 2009 14:45:07 +0200
+  [ Bernard Gray ]
+  * update splash-xfce to use new theme
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Fri, 29 May 2009 17:36:05 +1000
 
 sidux-art-aether (0.9) unstable; urgency=low
 
