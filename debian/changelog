@@ -1,8 +1,9 @@
-sidux-art-aether (0.11) UNRELEASED; urgency=low
+sidux-art-aether (0.11) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * add transparency gradient (black 100% --> 0% at half the screen width), 
+    this helps with the icon text readability.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 30 May 2009 00:30:14 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 26 Jun 2009 00:55:43 +0200
 
 sidux-art-aether (0.10) unstable; urgency=low
 
