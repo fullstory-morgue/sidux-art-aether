@@ -1,11 +1,15 @@
 #!/usr/bin/make -f
 
-BITMAPS= background.png
+BITMAPS= background branding-icon
 
 all: $(BITMAPS)
 
-background.png:
-	inkscape --without-gui --export-png="$@" background.svg
+background:
+	inkscape --without-gui --export-png="$@.png" $@.svg
+
+branding-icon:
+	inkscape --without-gui --export-width=96 --export-height=96 \
+		--export-png="$@.png" $@.svg
 
 clean:
-	$(RM) *.png
+	$(RM) background.png branding-icon.png
