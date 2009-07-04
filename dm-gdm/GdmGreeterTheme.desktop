@@ -1,7 +1,8 @@
 [GdmGreeterTheme]
-Author=sidux art team
-Copyright=GPL
-Description="sidux 2009-02 aether" 
 Greeter=aether.xml
 Name=sidux-aether
+Description=sidux 2009-02 aether GDM Theme
+Author=sidux art team
+Copyright=GPL
 Screenshot=screenshot.jpg
+

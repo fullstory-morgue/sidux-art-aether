@@ -1,8 +1,12 @@
 sidux-art-aether (0.12) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 26 Jun 2009 00:58:22 +0200
+  [ Bernard Gray ]
+  * add new artwork for dm-gdm theme -- do not release
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 04 Jul 2009 13:53:45 +1000
 
 sidux-art-aether (0.11) unstable; urgency=low
 
