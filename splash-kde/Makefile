@@ -1,49 +1,17 @@
 #!/usr/bin/make -f
 
-NAME= background
+ICONS= icon
 THEME= sidux-aether
-SIZES= 400x250 600x400 800x600 1024x768 1280x1024 1600x1200 1920x1200 
-SVG= $(NAME).svg
+CONTROLDIR= 1024x768
+ANIMCREATOR= ./svg-anim.pl
 
-all: $(SIZES)
+all: $(ICONS)
 
-400x250:
-	mkdir -p $(THEME)/
-	$(RM) $(THEME)/Preview.png
-	inkscape --without-gui --export-width=$(firstword $(subst x, ,$@ )) \
-		--export-height=$(lastword $(subst x, ,$@ )) \
-		--export-png="$(THEME)/Preview.png" $(SVG)
-
-1280x1024:
-	mkdir -p $(THEME)/$@
-	$(RM) $(THEME)/$@/$(NAME).png
-	inkscape --without-gui --export-width=$(firstword $(subst x, ,$@ )) \
-		--export-height=$(lastword $(subst x, ,$@ )) \
-		--export-area=210:0:1710:1200 \
-		--export-png="$(THEME)/$@/$(NAME).png" $(SVG)
-
-600x400:
-	mkdir -p $(THEME)/$@
-	$(RM) $(THEME)/$@/$(NAME).png
-	inkscape --without-gui --export-width=$(firstword $(subst x, ,$@ )) \
-		--export-height=$(lastword $(subst x, ,$@ )) \
-		--export-area=60:0:1860:1200 \
-		--export-png="$(THEME)/$@/$(NAME).png" $(SVG)
-
-800x600 1024x768 1600x1200:
-	mkdir -p $(THEME)/$@
-	$(RM) $(THEME)/$@/$(NAME).png
-	inkscape --without-gui --export-width=$(firstword $(subst x, ,$@ )) \
-		--export-height=$(lastword $(subst x, ,$@ )) \
-		--export-area=160:0:1760:1200 \
-		--export-png="$(THEME)/$@/$(NAME).png" $(SVG)
-
-1280x800 1920x1200:
-	mkdir -p $(THEME)/$@
-	$(RM) $(THEME)/$@/$(NAME).png
-	inkscape --without-gui --export-width=$(firstword $(subst x, ,$@ )) \
-		--export-height=$(lastword $(subst x, ,$@ )) \
-		--export-png="$(THEME)/$@/$(NAME).png" $(SVG)
+icon:
+	$(RM) -r $(THEME)/$(CONTROLDIR)
+	mkdir -p $(THEME)/$(CONTROLDIR)
+	$(ANIMCREATOR) frames=30 effect=opacity:cycle < $@.svg > $@_anim.svg
+	inkscape --without-gui --export-png="$(THEME)/$(CONTROLDIR)/$@_anim.png" $@_anim.svg
 
 clean:
 	$(RM) -r $(THEME)
