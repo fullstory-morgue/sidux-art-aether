@@ -10,8 +10,9 @@ sidux-art-aether (0.12) UNRELEASED; urgency=low
   * add new artwork for dm-kdm theme -- do not release
   * update kdm screenshot
   * add new artwork for ksplash
+  * add ttf-dustin as build depends, required for wallpaper
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 04 Jul 2009 14:24:59 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 04 Jul 2009 14:28:19 +1000
 
 sidux-art-aether (0.11) unstable; urgency=low
 
