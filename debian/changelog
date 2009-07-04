@@ -12,11 +12,13 @@ sidux-art-aether (0.12) UNRELEASED; urgency=low
   * add new artwork for ksplash
   * add ttf-dustin as build depends, required for wallpaper
   * add new artwork for xfce splash
-  * add new artwork for wallpaper -- do not release
+  * add new artwork for wallpaper
   * add preview for ksplash
   * update copyright for dm-kdm/aether.xml
+  * add stanza for license of bfree's svg_anim.pl script, license still unknown
+  * DO NOT RELEASE UNTIL RESOLVED
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 04 Jul 2009 15:21:05 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 04 Jul 2009 15:24:37 +1000
 
 sidux-art-aether (0.11) unstable; urgency=low
 

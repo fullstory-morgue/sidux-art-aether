@@ -78,6 +78,10 @@ Copyright:
           Copyright 2008 Oswald Buddenhagen <ossi @ kde.org>
       License: GPL v2 or later
 
+    splash-kde/svg-anim.pl:
+      Copyright 2009 Naill Walsh <niallwalsh@users.berlios.de>
+      License: XXX - todo
+
 License:
 
     This package is free software; you can redistribute it and/or modify
