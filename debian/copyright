@@ -72,6 +72,11 @@ Copyright:
       |
       |   With this library a notice is placed at a prominent place in the directory
 
+    dm-kdm/aether.xml:
+      based on Default kde theme oxygen.xml:
+          Copyright 2008 Urs Wolfer <uwolfer @ kde.org>
+          Copyright 2008 Oswald Buddenhagen <ossi @ kde.org>
+      License: GPL v2 or later
 
 License:
 
