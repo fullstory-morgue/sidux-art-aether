@@ -1,9 +1,5 @@
-sidux-art-aether (0.12) UNRELEASED; urgency=low
+sidux-art-aether (0.12) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * add new artwork for dm-gdm theme
   * update gdm screenshot 
   * point GdmGreeter at the right screenshot
