@@ -1,8 +1,12 @@
 sidux-art-aether (0.13) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 12 Jul 2009 14:49:44 +0200
+  [ Bernard Gray ]
+  * hack the install and Makefile to make sure icon_anim.png gets installed
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 14 Jul 2009 16:29:28 +1000
 
 sidux-art-aether (0.12) unstable; urgency=low
 
