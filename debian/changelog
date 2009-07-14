@@ -1,3 +1,12 @@
+sidux-art-aether (0.14) unstable; urgency=low
+
+  * add missing build dependency on libxml-parser-perl.
+  * update standards version to 3.8.2, no changes necessary.
+  * fix Αιθήρ name in debian/control.
+  * whitespace cleanups in debian/control.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 14 Jul 2009 11:59:57 +0200
+
 sidux-art-aether (0.13) unstable; urgency=low
 
   * hack the install and Makefile to make sure icon_anim.png gets installed
