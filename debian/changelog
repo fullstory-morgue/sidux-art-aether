@@ -1,8 +1,10 @@
-sidux-art-aether (0.15) UNRELEASED; urgency=low
+sidux-art-aether (0.15) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to dpkg-source 3.0 (native) format.
+  * update standards version to 3.8.4, no changes necessary.
+  * fix wrapping in debian/control.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 14 Jul 2009 12:05:30 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 00:49:50 +0200
 
 sidux-art-aether (0.14) unstable; urgency=low
 
