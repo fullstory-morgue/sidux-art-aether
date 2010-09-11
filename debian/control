@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 7),
  inkscape,
  libxml-parser-perl,
  ttf-dustin
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-aether/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-aether/trunk/
 
