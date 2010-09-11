@@ -4,8 +4,9 @@ sidux-art-aether (0.16) ORPHANED; urgency=low
   * ORPHAN PACKAGE, must now be built from sidux-art-legacy.
   * bump standards version to 3.9.0, no changes necessary.
   * rename theme-kde/sidux.colors -> theme-kde/sidux-aether.colors
+  * switch to compat level 8.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 03:06:53 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:08:48 +0200
 
 sidux-art-aether (0.15) unstable; urgency=low
 
