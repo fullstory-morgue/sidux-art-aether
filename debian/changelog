@@ -1,10 +1,11 @@
-sidux-art-aether (0.16) UNRELEASED; urgency=low
+sidux-art-aether (0.16) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE, must now be built from sidux-art-legacy.
   * bump standards version to 3.9.0, no changes necessary.
   * rename theme-kde/sidux.colors -> theme-kde/sidux-aether.colors
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 01:15:07 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 03:06:53 +0200
 
 sidux-art-aether (0.15) unstable; urgency=low
 
