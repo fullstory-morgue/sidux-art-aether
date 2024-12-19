@@ -5,6 +5,7 @@ sidux-art-aether (0.16) ORPHANED; urgency=low
   * bump standards version to 3.9.0, no changes necessary.
   * rename theme-kde/sidux.colors -> theme-kde/sidux-aether.colors
   * switch to compat level 8.
+  * refresh SVG graphics, shut up inkscape's migration from old versions.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:08:48 +0200
 
